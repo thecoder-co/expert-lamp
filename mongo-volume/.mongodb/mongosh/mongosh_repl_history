@@ -1,0 +1,31 @@
+.exit
+use mydb
+.exit
+db.stats()
+.exit
+show dbs
+db
+ use mydb
+db.version
+db.version()
+db.stats()
+db.stats
+db.help()b.stats()
+.exit
+show dbs
+db
+ use mydb
+db.version
+db.version()
+db.stats()
+db.stats
+db.help()help()b.stats()
+.exit
+show dbs
+db
+ use mydb
+db.version
+db.version()
+db.stats()
+db.stats
+db.help()
